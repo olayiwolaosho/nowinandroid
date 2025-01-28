@@ -22,7 +22,7 @@ The app architecture has three layers: a [data layer](https://developer.android.
 
 
 <div style="text-align: center;">
-<img src="https://www.immerse.education/wp-content/uploads/2022/10/what-are-the-7-different-types-of-architecture.jpg.webp" width="1098" alt="Diagram showing overall app architecture" />
+<img src="images/architecture-2-example.png" width="1098" alt="Diagram showing overall app architecture" />
 </div>
 
 > [!NOTE]  
@@ -46,7 +46,7 @@ When the app is first run it will attempt to load a list of news resources from 
 The following diagram shows the events which occur and how data flows from the relevant objects to achieve this.
 
 
-![Diagram showing how news resources are displayed on the For You screen](docs/images/architecture-2-example.png) 
+![Diagram showing how news resources are displayed on the For You screen](images/architecture-2-example.png) 
 
 "Diagram showing how news resources are displayed on the For You screen"
 
