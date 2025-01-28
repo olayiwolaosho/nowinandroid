@@ -22,7 +22,7 @@ The app architecture has three layers: a [data layer](https://developer.android.
 
 
 <div style="text-align: center;">
-<img src="images/architecture-1-overall.png" width="600px" alt="Diagram showing overall app architecture" />
+<img src="images/architecture-1-overall.png" width="1098" alt="Diagram showing overall app architecture" />
 </div>
 
 > [!NOTE]  
@@ -46,7 +46,9 @@ When the app is first run it will attempt to load a list of news resources from 
 The following diagram shows the events which occur and how data flows from the relevant objects to achieve this.
 
 
-![Diagram showing how news resources are displayed on the For You screen](images/architecture-2-example.png) "Diagram showing how news resources are displayed on the For You screen"
+![Diagram showing how news resources are displayed on the For You screen](images/architecture-2-example.png) 
+
+"Diagram showing how news resources are displayed on the For You screen"
 
 
 Here's what's happening in each step. The easiest way to find the associated code is to load the project into Android Studio and search for the text in the Code column (handy shortcut: tap <kbd>⇧ SHIFT</kbd> twice).
