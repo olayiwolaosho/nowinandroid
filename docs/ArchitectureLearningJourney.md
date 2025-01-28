@@ -22,7 +22,7 @@ The app architecture has three layers: a [data layer](https://developer.android.
 
 
 <div style="text-align: center;">
-<img src="images/architecture-1-overall.png" width="1098" alt="Diagram showing overall app architecture" />
+<img src="https://www.immerse.education/wp-content/uploads/2022/10/what-are-the-7-different-types-of-architecture.jpg.webp" width="1098" alt="Diagram showing overall app architecture" />
 </div>
 
 > [!NOTE]  
