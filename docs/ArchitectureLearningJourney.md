@@ -46,7 +46,7 @@ When the app is first run it will attempt to load a list of news resources from 
 The following diagram shows the events which occur and how data flows from the relevant objects to achieve this.
 
 
-![Diagram showing how news resources are displayed on the For You screen](images/architecture-2-example.png) 
+![Diagram showing how news resources are displayed on the For You screen](docs/images/architecture-2-example.png) 
 
 "Diagram showing how news resources are displayed on the For You screen"
 
